@@ -1,2 +1,1 @@
-# samhita-h.github.io
-https://samhita-h.github.io/
+Map of my favorite destinations. https://samhita-h.github.io/
